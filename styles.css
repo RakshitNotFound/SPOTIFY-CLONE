@@ -12,7 +12,14 @@ body{
 nav{
 font-family: 'Roboto', sans-serif;
 }
-
 nav ul{
     display: flex;
+    list-style-type: none;
+    height: 60px;
+    background-color: black;
+}
+
+.brand img{
+   width: 44px;
+   
 }
